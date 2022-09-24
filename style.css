@@ -1,0 +1,8 @@
+/body::after {
+  display: inline-block;
+  content: "";
+  height: 80px;
+}
+
+.navbar {
+}
